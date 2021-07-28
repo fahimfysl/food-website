@@ -65,7 +65,23 @@ section{
 }
 .para{
     padding-bottom: 30px;
-    font-weight: 500;
-    font-size: 25px;
+    font-weight: 600;
+    font-size: 30px;
 }
+.footer{
+    text-align: center;
+    padding-bottom: 40px;
+    color: gray;
+}
+.footer-para{
+    font-size: 50px;
+    color: black;
+}
+
+                  
+        
+        
+        
+    
+
 
